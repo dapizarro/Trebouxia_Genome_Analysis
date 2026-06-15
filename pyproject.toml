@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trebouxia-genomics-pipeline"
+version = "0.1.0-beta"
+description = "Python CLI pipeline for comparative genomics and variant-impact analysis of closely related Trebouxia strains."
+authors = [
+    {name = "David Pizarro"}
+]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=1.5",
+    "matplotlib>=3.6",
+    "seaborn>=0.12"
+]
+
+[project.scripts]
+trebouxia-pipeline = "trebouxia_pipeline.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["trebouxia_pipeline*"]

@@ -1,0 +1,28 @@
+name: trebouxia-genomics
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python>=3.9
+  - pandas
+  - matplotlib
+  - seaborn
+  - pytest
+  - fastqc
+  - multiqc
+  - fastp
+  - spades
+  - quast
+  - busco
+  - bwa
+  - samtools
+  - bcftools
+  - bedtools
+  - mummer4
+  - fastani
+  - snpeff
+  - snpsift
+  - pip
+  - pip:
+      - -e .

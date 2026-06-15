@@ -1,0 +1,3 @@
+sample,r1,r2
+ASV1,/path/ASV1_R1.fastq.gz,/path/ASV1_R2.fastq.gz
+ASV2,/path/ASV2_R1.fastq.gz,/path/ASV2_R2.fastq.gz
