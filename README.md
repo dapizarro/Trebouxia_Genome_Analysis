@@ -1,12 +1,10 @@
-# Trebouxia_Genome_Comparition
+# Trebouxia_Genome_Comparison
 
 > Trebouxia strain comparative genomics pipeline
 
 Python CLI pipeline for comparing two closely related *Trebouxia lynniae* strains at genome and variant-impact level.
 
 The workflow follows a strict comparative genomics logic: Illumina read QC/trimming, SPAdes assemblies, QUAST/BUSCO assembly checks, FastANI and MUMmer whole-genome comparison, read-backed variant calling, SnpEff variant-effect annotation, and integration with EggNOG-mapper and InterProScan functional annotations.
-
-> Note: the repository name keeps `Comparition` because it matches the requested project title. For a public GitHub release, `Trebouxia_Genome_Comparison` would be the cleaner spelling.
 
 ---
 
