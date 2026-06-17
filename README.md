@@ -150,6 +150,8 @@ The analytical framework is currently being applied in ongoing research investig
 
 Some components of the workflow contribute to research that is currently under peer review.
 
+---
+
 ## Project Status
 
 ### Research Repository – Active Development. 
