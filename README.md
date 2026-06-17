@@ -1,7 +1,3 @@
-**Repository Maintainer:** David Pizarro, PhD  
-Department of Pharmacology, Pharmacognosy and Botany  
-Complutense University of Madrid (UCM)
-
 # Trebouxia_Genome_Comparison
 
 > Trebouxia strain comparative genomics pipeline
@@ -155,3 +151,7 @@ The workflows implemented in this repository were developed to support the compa
 ## Project Status
 
 Research Repository – Active Development. This repository accompanies an ongoing research project and is actively maintained. While the core analyses are fully reproducible, additional modules, documentation, and validation steps may be incorporated as the associated manuscript progresses through peer review. Users are welcome to explore, reproduce, and adapt the workflows for comparative genomics studies in microalgae, fungi, lichens, and other non-model organisms. CITE: https://doi.org/10.5281/zenodo.20700794
+
+**Repository Maintainer:** David Pizarro, PhD  
+Department of Pharmacology, Pharmacognosy and Botany  
+Complutense University of Madrid (UCM)
