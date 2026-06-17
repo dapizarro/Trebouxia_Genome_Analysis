@@ -1,3 +1,7 @@
+**Repository Maintainer:** David Pizarro, PhD  
+Department of Pharmacology, Pharmacognosy and Botany  
+Complutense University of Madrid (UCM)
+
 # Trebouxia_Genome_Comparison
 
 > Trebouxia strain comparative genomics pipeline
@@ -140,6 +144,14 @@ python -m trebouxia_pipeline.plots \
 
 ---
 
-## Citation
+## Associated Manuscript
 
-Please cite the manuscript and the underlying tools used by each step.
+This repository was developed as part of the research project described in the following manuscript:
+
+Blázquez M., Pizarro D., García-Muñoz A., Pino-Bodas R., de los Ríos A., Arzac M.I., García-Plazaola J.I., Fernández-Marín B., Artetxe U., Toledo-Gil R., Vallejo F., Casano L.M., Pérez-Vargas I., Pérez-Ortega S., & Gasulla F. Hidden strategies beneath a single nucleotide: contrasting physiology in two Trebouxia lynniae strains. Plant, Cell & Environment (currently under review).
+
+The workflows implemented in this repository were developed to support the comparative genomic analyses performed in this study, including genome assembly assessment, whole-genome comparison, variant discovery, functional annotation, and interpretation of genetic differences between closely related Trebouxia strains. Please note that the manuscript is currently under peer review and some analyses, figures, and interpretations may evolve before publication.
+
+## Project Status
+
+Research Repository – Active Development. This repository accompanies an ongoing research project and is actively maintained. While the core analyses are fully reproducible, additional modules, documentation, and validation steps may be incorporated as the associated manuscript progresses through peer review. Users are welcome to explore, reproduce, and adapt the workflows for comparative genomics studies in microalgae, fungi, lichens, and other non-model organisms. CITE: https://doi.org/10.5281/zenodo.20700794
