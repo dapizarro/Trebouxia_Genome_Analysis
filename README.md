@@ -35,7 +35,7 @@ trebouxia_genomics_pipeline/
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USER/trebouxia_genomics_pipeline.git
+git clone https://github.com/dapizarro/trebouxia_genomics_pipeline.git
 cd trebouxia_genomics_pipeline
 mamba env create -f config/environment.yml
 mamba activate trebouxia-genomics
