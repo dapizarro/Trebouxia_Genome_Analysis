@@ -148,7 +148,7 @@ python -m trebouxia_pipeline.plots \
 
 This repository was developed as part of the research project described in the following manuscript:
 
-Blázquez M., Pizarro D., García-Muñoz A., Pino-Bodas R., de los Ríos A., Arzac M.I., García-Plazaola J.I., Fernández-Marín B., Artetxe U., Toledo-Gil R., Vallejo F., Casano L.M., Pérez-Vargas I., Pérez-Ortega S., & Gasulla F. Hidden strategies beneath a single nucleotide: contrasting physiology in two Trebouxia lynniae strains. Plant, Cell & Environment (currently under review).
+> Blázquez M., Pizarro D., García-Muñoz A., Pino-Bodas R., de los Ríos A., Arzac M.I., García-Plazaola J.I., Fernández-Marín B., Artetxe U., Toledo-Gil R., Vallejo F., Casano L.M., Pérez-Vargas I., Pérez-Ortega S., & Gasulla F. Hidden strategies beneath a single nucleotide: contrasting physiology in two Trebouxia lynniae strains. Plant, Cell & Environment (currently under review).
 
 The workflows implemented in this repository were developed to support the comparative genomic analyses performed in this study, including genome assembly assessment, whole-genome comparison, variant discovery, functional annotation, and interpretation of genetic differences between closely related Trebouxia strains. Please note that the manuscript is currently under peer review and some analyses, figures, and interpretations may evolve before publication.
 
