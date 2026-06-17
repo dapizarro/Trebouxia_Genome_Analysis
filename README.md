@@ -128,7 +128,7 @@ python -m trebouxia_pipeline.plots \
 
 ---
 
-## Recommended strict genomics additions before publication
+## Best-Practice Recommendations
 
 1. Perform read-backed variant calling rather than relying only on assembly-to-assembly SNPs.
 2. Mask repeats and low-complexity regions before interpreting private/exclusive genes.
@@ -140,17 +140,20 @@ python -m trebouxia_pipeline.plots \
 
 ---
 
-## Associated Manuscript
+## Research Context
 
-This repository was developed as part of the research project described in the following manuscript:
+This repository was developed during comparative genomics analyses of closely related *Trebouxia lynniae* strains.
 
-> Blázquez M., Pizarro D., García-Muñoz A., Pino-Bodas R., de los Ríos A., Arzac M.I., García-Plazaola J.I., Fernández-Marín B., Artetxe U., Toledo-Gil R., Vallejo F., Casano L.M., Pérez-Vargas I., Pérez-Ortega S., & Gasulla F. Hidden strategies beneath a single nucleotide: contrasting physiology in two Trebouxia lynniae strains. Plant, Cell & Environment (currently under review).
+The workflow implements methods for genome assembly assessment, whole-genome comparison, variant discovery, variant-effect annotation and functional interpretation of genetic differences between highly similar photobiont genomes.
 
-The workflows implemented in this repository were developed to support the comparative genomic analyses performed in this study, including genome assembly assessment, whole-genome comparison, variant discovery, functional annotation, and interpretation of genetic differences between closely related Trebouxia strains. Please note that the manuscript is currently under peer review and some analyses, figures, and interpretations may evolve before publication.
+The analytical framework is currently being applied in ongoing research investigating genomic and physiological differentiation among *Trebouxia* strains.
+
+Some components of the workflow contribute to research that is currently under peer review.
 
 ## Project Status
 
-Research Repository – Active Development. This repository accompanies an ongoing research project and is actively maintained. While the core analyses are fully reproducible, additional modules, documentation, and validation steps may be incorporated as the associated manuscript progresses through peer review. Users are welcome to explore, reproduce, and adapt the workflows for comparative genomics studies in microalgae, fungi, lichens, and other non-model organisms. CITE: https://doi.org/10.5281/zenodo.20700794
+### Research Repository – Active Development. 
+This repository accompanies an ongoing research project and is actively maintained. While the core analyses are fully reproducible, additional modules, documentation, and validation steps may be incorporated as the associated manuscript progresses through peer review. Users are welcome to explore, reproduce, and adapt the workflows for comparative genomics studies in microalgae, fungi, lichens, and other non-model organisms. CITE: https://doi.org/10.5281/zenodo.20700794
 
 **Repository Maintainer:** David Pizarro, PhD  
 Department of Pharmacology, Pharmacognosy and Botany  
